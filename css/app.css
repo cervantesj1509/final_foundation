@@ -1,0 +1,30 @@
+.name{
+	border-right: 1px solid black;
+	
+}
+.name1{
+	padding-right: 8px;
+
+}
+.name2{
+	padding-right: 8px;
+	border-bottom: 1px solid black;
+}
+
+.img1,.img3,.img4{
+	width: 77px;
+	height: 60px;
+}
+.img8{
+	width: 614px;
+	height: 409px;
+	
+}
+body{
+	background-image:url(../img/6.jpg);
+}
+
+.card{
+	opacity: 0.9;
+}
+
